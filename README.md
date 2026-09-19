@@ -1,4 +1,4 @@
-# 📚 SKRIPTORIA: Plataforma E-commerce para Librería Online
+# 📚 SKRIPTORIA: Plataforma E-commerce de Libros en línea
 
 ## Descripción del Proyecto
 
